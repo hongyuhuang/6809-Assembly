@@ -1,2 +1,4 @@
 # 6809-Assembly
-Various programs that perform different tasks in the 6809 assembly language. 
+The objective of this project was to execute different tasks in the 6809 assembly language.
+
+http://6809.uk/
